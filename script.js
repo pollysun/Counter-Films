@@ -33,7 +33,7 @@ function rememberMyFilms() {
     }
   }
 }
-// rememberMyFilms();
+rememberMyFilms();
 
 /* let i = 0;
 while (i < 0) {
@@ -60,7 +60,7 @@ function detectPersonalLevel() {
     console.log  ('Произошла ошибка');
   }
 }
-// detectPersonalLevel();
+detectPersonalLevel();
 
 function showMyDB(hidden) {
   if (!hidden) {
